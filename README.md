@@ -26,3 +26,10 @@
     *   Технологии: `[Перечисли технологии через запятую]`
 
 *   **(И так далее для других проектов)**
+## Связаться со мной
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[Твой ник в LinkedIn])
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/[Твой ник в Twitter])
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[Твой email адрес])
+
+Спасибо за посещение моего профиля! ✨
